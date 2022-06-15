@@ -11,7 +11,7 @@ Use the node modules package
 ```
 npm i
 ```
-##How to run project
+##Run project
 ```
 npm start
 ```
