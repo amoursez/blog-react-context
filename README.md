@@ -21,7 +21,7 @@ npm start
 <img src="https://user-images.githubusercontent.com/72801356/173776783-5f80de3a-5833-444b-9add-71f40c5ea65b.png" width="500" height="400">
 
 <h1>Comments feature</h1>
-<h3>Select one of the post you are interested in and click on the title</h3>
+<h3>Select one of the posts you are interested in and click on the title</h3>
 
 <img src="https://user-images.githubusercontent.com/72801356/173777076-bd614ccd-6e00-4900-9ea8-d9a156fca4f1.png" width="500" height="400">
 <h3>You can create a new Comment.</h3>
